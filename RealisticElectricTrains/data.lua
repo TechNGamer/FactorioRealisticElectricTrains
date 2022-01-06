@@ -1,6 +1,6 @@
 --data.lua
 
-mod = "Realistic_Electric_Trains_fix"
+mod = "Tech_N_Gamers_Realistic_Electric_Trains_fix"
 path = "__" .. mod .. "__/"
 graphics = path .. "graphics/"
 
